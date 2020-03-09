@@ -1,0 +1,29 @@
+{
+  "name": "graphql_learn",
+  "version": "1.0.0",
+  "description": "this is repo for learn graph QL with complete understand from many source like udemy , medium etc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon server2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshjangid/learn_GraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshjangid/learn_GraphQL/issues"
+  },
+  "homepage": "https://github.com/ganeshjangid/learn_GraphQL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
